@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "emoji": "🧹",
+            "nome": "Varrer o chão",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🛋️",
+            "nome": "Aspirar o sofá",
+            "comodo": "Sala",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "📺",
+            "nome": "Limpar a TV",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar as janelas",
+            "comodo": "Sala",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🪣",
+            "nome": "Passar pano no chão",
+            "comodo": "Sala",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🍳",
+            "nome": "Lavar a louça",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧽",
+            "nome": "Limpar a pia",
+            "comodo": "Cozinha",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🥄",
+            "nome": "Organizar os talheres",
+            "comodo": "Cozinha",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧊",
+            "nome": "Limpar a geladeira",
+            "comodo": "Cozinha",
+            "tempo_execucao": "longo"
+        },
+        {
+            "emoji": "🍴",
+            "nome": "Organizar os utensílios de cozinha",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🚽",
+            "nome": "Limpar o vaso sanitário",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🚿",
+            "nome": "Limpar o box do chuveiro",
+            "comodo": "Banheiro",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🛁",
+            "nome": "Limpar a banheira",
+            "comodo": "Banheiro",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar a pia",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar produtos de higiene",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧺",
+            "nome": "Lavar roupas",
+            "comodo": "Lavanderia",
+            "tempo_execucao": "longo"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar produtos de limpeza",
+            "comodo": "Lavanderia",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar o tanque",
+            "comodo": "Lavanderia",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪣",
+            "nome": "Passar pano no chão",
+            "comodo": "Lavanderia",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧹",
+            "nome": "Varrer o chão",
+            "comodo": "Lavanderia",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪴",
+            "nome": "Regar as plantas",
+            "comodo": "Varanda",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar o mobiliário externo",
+            "comodo": "Varanda",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧹",
+            "nome": "Varrer a varanda",
+            "comodo": "Varanda",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪣",
+            "nome": "Passar pano na varanda",
+            "comodo": "Varanda",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🌱",
+            "nome": "Podar as plantas",
+            "comodo": "Varanda",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🛏️",
+            "nome": "Arrumar a cama",
+            "comodo": "Quarto",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar a mesa de cabeceira",
+            "comodo": "Quarto",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪞",
+            "nome": "Limpar o espelho",
+            "comodo": "Quarto",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧹",
+            "nome": "Varrer o chão",
+            "comodo": "Quarto",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧺",
+            "nome": "Dobrar as roupas",
+            "comodo": "Quarto",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🛋️",
+            "nome": "Organizar as almofadas",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar os livros",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪞",
+            "nome": "Limpar os espelhos",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar a mesa de centro",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪑",
+            "nome": "Organizar as cadeiras",
+            "comodo": "Sala",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar o fogão",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🍴",
+            "nome": "Limpar os armários",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar os mantimentos",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧽",
+            "nome": "Limpar os eletrodomésticos",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🥣",
+            "nome": "Lavar potes e panelas",
+            "comodo": "Cozinha",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧴",
+            "nome": "Organizar os produtos de beleza",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🪞",
+            "nome": "Limpar o espelho",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        },
+        {
+            "emoji": "🧼",
+            "nome": "Limpar o chão",
+            "comodo": "Banheiro",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🚿",
+            "nome": "Limpar o chuveiro",
+            "comodo": "Banheiro",
+            "tempo_execucao": "médio"
+        },
+        {
+            "emoji": "🧽",
+            "nome": "Limpar as prateleiras",
+            "comodo": "Banheiro",
+            "tempo_execucao": "rápido"
+        }
+    ]
+}
